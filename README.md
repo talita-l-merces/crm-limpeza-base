@@ -1,16 +1,16 @@
-# 🧹 Limpeza e Estruturação de Base CRM
+# Limpeza e Estruturação de Base CRM
 
 Pipeline de limpeza, padronização e deduplicação de base de contatos para uso em CRM — transformando dados brutos de hospedagem em uma base confiável e acionável para estratégias de relacionamento.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Estruturar uma base de leads/contatos para CRM garantindo qualidade e consistência dos dados: sem duplicatas, com canais de contato validados, campos padronizados e scoring de completude por registro.
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 crm_limpeza/
@@ -28,7 +28,7 @@ crm_limpeza/
 
 ---
 
-## 🔍 O que foi feito
+## O que foi feito
 
 **Padronização estrutural**
 - Normalização de nomes de colunas para `snake_case` (remoção de acentos, camelCase, separadores)
@@ -50,7 +50,7 @@ crm_limpeza/
 
 ---
 
-## 📈 Resultados
+## Resultados
 
 | Indicador | Valor |
 |---|---|
@@ -63,7 +63,7 @@ crm_limpeza/
 
 ---
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 - Python 3.12
 - Pandas
@@ -73,7 +73,7 @@ crm_limpeza/
 
 ---
 
-## ⚠️ Privacidade dos Dados
+## Privacidade dos Dados
 
 Os dados originais contêm informações pessoais reais e não foram publicados neste repositório. A base disponível (`BASE_COMPLETA_anonimizada.csv`) foi gerada com nomes, emails e telefones fictícios, mantendo a estrutura e distribuições originais para fins de análise.
 
