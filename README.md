@@ -79,7 +79,7 @@ Os dados originais contêm informações pessoais reais e não foram publicados 
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Talita Lima das Mercês**  
 [LinkedIn](https://www.linkedin.com/in/talita-merces-a75b9b103)
